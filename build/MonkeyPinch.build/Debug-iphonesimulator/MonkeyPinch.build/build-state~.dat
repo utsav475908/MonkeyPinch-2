@@ -1,0 +1,778 @@
+TMonkeyPinch
+v7
+r0
+t388351402.105152
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Info.plist" MonkeyPinch/MonkeyPinch-Info.plist
+cProcessPCH /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch.pth MonkeyPinch/MonkeyPinch-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/main.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/AppDelegate.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/ViewController.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/TickleGestureRecognizer.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/MacView1Controller.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/OrganisedView1Controller.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/UnixView1Controller.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCopyStringsFile "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/InfoPlist.strings" MonkeyPinch/en.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/MainStoryboard.storyboard MonkeyPinch/en.lproj/MainStoryboard.storyboard
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/chomp.wav MonkeyPinch/chomp.wav
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/hehehe1.wav MonkeyPinch/hehehe1.wav
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/monkey_1.png MonkeyPinch/monkey_1.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/object_bananabunch.png MonkeyPinch/object_bananabunch.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall.png MonkeyPinch/BlobIconSmall.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall@2x.png MonkeyPinch/BlobIconSmall@2x.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Birthdays.png MonkeyPinch/Birthdays.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Birthdays@2x.png MonkeyPinch/Birthdays@2x.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/1.png MonkeyPinch/1.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/2.png MonkeyPinch/2.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/3.png MonkeyPinch/3.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch.png MonkeyPinch.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch1.png MonkeyPinch1.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Default-568h@2x.png Default-568h@2x.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/backgnd1.png MonkeyPinch/backgnd1.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/wood.jpg MonkeyPinch/wood.jpg
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Default@2x.png Default@2x.png
+cCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Default.png Default.png
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/Default-568h@2x.png
+c00000000517278950000000000026685
+t1366456469
+s157317
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/Default.png
+c00000000517279300000000000007F91
+t1366456624
+s32657
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/Default@2x.png
+c00000000517278E30000000000020E66
+t1366456547
+s134758
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch.png
+c00000000516566B90000000000004106
+t1365599929
+s16646
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/1.png
+c000000004E9A4E4E0000000000000442
+t1318735438
+s1090
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/2.png
+c000000004E9A4E6C000000000000049D
+t1318735468
+s1181
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/3.png
+c000000004E9A4E8500000000000004D2
+t1318735493
+s1234
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h
+c000000004ED553EF0000000000000123
+t1322603503
+s291
+i<UIKit/UIKit.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m
+c000000004ED553EF000000000000084B
+t1322603503
+s2123
+i"AppDelegate.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/Birthdays.png
+c00000000504B1E3400000000000003AA
+t1347100212
+s938
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/Birthdays@2x.png
+c00000000504B1E3400000000000005AB
+t1347100212
+s1451
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/BlobIconSmall.png
+c000000004E78077C000000000000179B
+t1316489084
+s6043
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/BlobIconSmall@2x.png
+c000000004E78077C0000000000004568
+t1316489084
+s17768
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.h
+c00000000516552D10000000000000141
+t1365594833
+s321
+i<UIKit/UIKit.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m
+c00000000516552D100000000000028DF
+t1365594833
+s10463
+i"MacView1Controller.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Prefix.pch
+c000000004ED553EF0000000000000145
+t1322603503
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.h
+c000000005165554C0000000000000150
+t1365595468
+s336
+i<UIKit/UIKit.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m
+c000000005165554C0000000000001103
+t1365595468
+s4355
+i"OrganisedView1Controller.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.h
+c000000004ED567F600000000000001D3
+t1322608630
+s467
+i<UIKit/UIKit.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m
+c000000004ED5693D000000000000090A
+t1322608957
+s2314
+i"TickleGestureRecognizer.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.h
+c000000005165568C0000000000000148
+t1365595788
+s328
+i<UIKit/UIKit.h>
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m
+c000000005165568C0000000000000C68
+t1365595788
+s3176
+i"UnixView1Controller.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h
+c000000004ED56A270000000000000378
+t1322609191
+s888
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+i"TickleGestureRecognizer.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m
+c00000000516552D10000000000001298
+t1365594833
+s4760
+i"ViewController.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/backgnd1.png
+c00000000517269EF00000000000176D2
+t1366452719
+s95954
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/chomp.wav
+c000000004DBF53E80000000000007C90
+t1304384488
+s31888
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/en.lproj/InfoPlist.strings
+c000000004ED553EF000000000000002D
+t1322603503
+s45
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/en.lproj/MainStoryboard.storyboard
+c000000005172768F0000000000006DE7
+t1366455951
+s28135
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/hehehe1.wav
+c000000004E35BC2B0000000000016A0C
+t1312144427
+s92684
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m
+c000000004ED553EF000000000000015E
+t1322603503
+s350
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/monkey_1.png
+c000000004E0512920000000000003710
+t1308955282
+s14096
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/object_bananabunch.png
+c000000004E0510910000000000003317
+t1308954769
+s13079
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/wood.jpg
+c0000000051726B44000000000000110C
+t1366453060
+s4364
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch1.png
+c00000000516566FA00000000000019BC
+t1365599994
+s6588
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app
+t2
+s0
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app.dSYM
+t2
+s0
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/1.png
+t1366658601
+s1090
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/2.png
+t1366658601
+s1181
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/3.png
+t1366658601
+s1234
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Birthdays.png
+t1366658601
+s938
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Birthdays@2x.png
+t1366658601
+s1451
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall.png
+t1366658601
+s6043
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall@2x.png
+t1366658601
+s17768
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Default-568h@2x.png
+t1366658601
+s157317
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Default.png
+t1366658601
+s32657
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Default@2x.png
+t1366658601
+s134758
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Info.plist
+t1366658598
+s895
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch
+t2
+s0
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch.png
+t1366658601
+s16646
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch1.png
+t1366658601
+s6588
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/PkgInfo
+t1366658598
+s8
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/backgnd1.png
+t1366658601
+s95954
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/chomp.wav
+t1366658601
+s31888
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/InfoPlist.strings
+t1366658602
+s42
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/MainStoryboard.storyboard
+t1366658600
+s28135
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/hehehe1.wav
+t1366658601
+s92684
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/monkey_1.png
+t1366658601
+s14096
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/object_bananabunch.png
+t1366658601
+s13079
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/wood.jpg
+t1366658601
+s4364
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/MacView1Controller.o
+t1366658600
+s77992
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/MonkeyPinch.LinkFileList
+c0000000051758E2600000000000003D5
+t1366658598
+s981
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/OrganisedView1Controller.o
+t1366658600
+s59348
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/TickleGestureRecognizer.o
+t1366658600
+s51200
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/UnixView1Controller.o
+t1366658600
+s53640
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004D5EBEBB00000000000007D0
+t1298054843
+s2000
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizerSubclass.h
+c000000004D5615B50000000000000926
+t1297487285
+s2342
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch.pth
+t1366658599
+s3360084
+
+NMonkeyPinch/MonkeyPinch-Info.plist
+c00000000517295EC00000000000005BD
+t1366463980
+s1469
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies388351398#388351398#0(0"0(0#1#0"17237747968#0"0#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/AppDelegate.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351399.384382
+e388351399.699981
+r0
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/AppDelegate.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m:9:
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o2 warnings and 1 error generated.
+lSLF07#2@70"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m388351399#388351399#0(654"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m:9:/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: default property attribute 'assign' not appropriate for non-gc object2 warnings and 1 error generated.3(4@35"Unknown property attribute 'strong'388351399#88#113#2(7@87"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m:9:388351399#0#88#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m344296303#9#0#9#0#0"0(13@101"Unknown property attribute 'strong' in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#12#0#0#0"0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed388351399#264#156#2(7@87"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m:9:388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m344296303#9#0#9#0#0"0(13@143"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#0"0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object388351399#472#148#2(7@87"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m:9:388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m344296303#9#0#9#0#0"0(13@135"Default property attribute 'assign' not appropriate for non-gc object in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#0"0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(0#0#62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m4502789776#2145"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/AppDelegate.o"1#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/MacView1Controller.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351399.859410
+e388351400.636056
+r1
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/MacView1Controller.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@77"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m388351399#388351400#0(0"0(0#0#69"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m17223620608#2159"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MacView1Controller.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/MacView1Controller.o"0#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/OrganisedView1Controller.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351400.627746
+e388351400.738977
+r1
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/OrganisedView1Controller.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@83"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m388351400#388351400#0(0"0(0#0#75"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m4502789776#2171"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/OrganisedView1Controller.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/OrganisedView1Controller.o"0#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/TickleGestureRecognizer.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351399.700079
+e388351400.627570
+r1
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/TickleGestureRecognizer.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@82"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m388351399#388351400#0(0"0(0#0#74"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m4502789776#2169"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/TickleGestureRecognizer.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/TickleGestureRecognizer.o"0#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/UnixView1Controller.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351400.636180
+e388351400.738763
+r1
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/UnixView1Controller.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@78"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m388351400#388351400#0(0"0(0#0#70"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m4502789776#2161"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/UnixView1Controller.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/UnixView1Controller.o"0#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/ViewController.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351399.698553
+e388351399.859193
+r0
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/ViewController.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:19:12: error: unknown property attribute 'strong'
+o @property (strong) AVAudioPlayer * chompPlayer;
+o            ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:19:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong) AVAudioPlayer * chompPlayer;
+o ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:19:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:22:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *monkeyPan;
+o            ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:22:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *monkeyPan;
+o ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:22:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:23:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *bananaPan;
+o            ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:23:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *bananaPan;
+o ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:23:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:25:12: error: unknown property attribute 'strong'
+o @property (strong) AVAudioPlayer * hehePlayer;
+o            ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:25:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong) AVAudioPlayer * hehePlayer;
+o ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:25:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o8 warnings and 4 errors generated.
+lSLF07#2@73"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m388351399#388351399#0(2392"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:19:12: error: unknown property attribute 'strong' @property (strong) AVAudioPlayer * chompPlayer;            ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:19:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong) AVAudioPlayer * chompPlayer; ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:19:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:22:12: error: unknown property attribute 'strong' @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *monkeyPan;            ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:22:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *monkeyPan; ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:22:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:23:12: error: unknown property attribute 'strong' @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *bananaPan;            ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:23:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) IBOutlet UIPanGestureRecognizer *bananaPan; ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:23:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:25:12: error: unknown property attribute 'strong' @property (strong) AVAudioPlayer * hehePlayer;            ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:25:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong) AVAudioPlayer * hehePlayer; ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h:25:1: warning: default property attribute 'assign' not appropriate for non-gc object8 warnings and 4 errors generated.12(4@35"Unknown property attribute 'strong'388351399#91#116#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#0#91#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@104"Unknown property attribute 'strong' in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#19#12#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#19#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed388351399#270#159#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#19#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#19#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object388351399#481#151#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#19#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#19#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'388351399#632#116#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@104"Unknown property attribute 'strong' in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#22#12#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#22#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed388351399#837#159#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#22#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#22#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object388351399#1074#151#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#22#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#22#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'388351399#1225#116#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@104"Unknown property attribute 'strong' in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#23#12#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#23#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed388351399#1430#159#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#23#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#23#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object388351399#1667#151#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#23#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#23#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@35"Unknown property attribute 'strong'388351399#1818#116#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@104"Unknown property attribute 'strong' in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#25#12#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#25#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed388351399#1996#159#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@146"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#25#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#25#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object388351399#2206#151#2(7@90"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m:9:388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m387287633#9#0#9#0#0"0(13@138"Default property attribute 'assign' not appropriate for non-gc object in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h388351399#18446744073709551615#0#0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#25#1#0#0#0"0(6@65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.h344301991#25#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(0#0#65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m4502789776#2151"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/ViewController.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/ViewController.o"1#
+
+CCompileC build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/main.o "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351399.383061
+e388351399.698439
+r0
+xCompileC
+xbuild/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/main.o
+x/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:11:
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:12: error: unknown property attribute 'strong'
+o @property (strong, nonatomic) UIWindow *window;
+o            ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed
+o @property (strong, nonatomic) UIWindow *window;
+o ^
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: default property attribute 'assign' not appropriate for non-gc object
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:15:5: error: unexpected '@' in program
+o     @autoreleasepool {
+o     ^
+o2 warnings and 2 errors generated.
+lSLF07#2@63"Compile /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m388351399#388351399#0(775"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:11:/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:12: error: unknown property attribute 'strong' @property (strong, nonatomic) UIWindow *window;            ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed @property (strong, nonatomic) UIWindow *window; ^/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h:13:1: warning: default property attribute 'assign' not appropriate for non-gc object/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:15:5: error: unexpected '@' in program     @autoreleasepool {     ^2 warnings and 2 errors generated.4(4@35"Unknown property attribute 'strong'388351399#82#113#2(7@81"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:11:388351399#0#82#0(6@55"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m344296303#11#0#11#0#0"0(13@101"Unknown property attribute 'strong' in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#12#0#0#0"0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#12#0#0#28"unknown property attribute *0(22@77"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed388351399#258#156#2(7@81"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:11:388351399#18446744073709551615#0#0(6@55"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m344296303#11#0#11#0#0"0(13@143"No 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#0"0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#77"no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed0(22@69"Default property attribute 'assign' not appropriate for non-gc object388351399#466#148#2(7@81"In file included from /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m:11:388351399#18446744073709551615#0#0(6@55"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m344296303#11#0#11#0#0"0(13@135"Default property attribute 'assign' not appropriate for non-gc object in /Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h388351399#18446744073709551615#0#0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#0"0(6@62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/AppDelegate.h344296303#13#1#0#0#69"default property attribute 'assign' not appropriate for non-gc object0(4@25"Unexpected '@' in program388351399#614#95#0(6@55"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m344296303#15#5#0#0#25"unexpected '@' in program0(0#0#55"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m4502789776#2131"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -include /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/main.m" -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/Objects-normal/i386/main.o"1#
+
+CCopyStringsFile "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/InfoPlist.strings" MonkeyPinch/en.lproj/InfoPlist.strings
+s388351400.739215
+e388351402.105044
+r1
+xCopyStringsFile
+x/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/InfoPlist.strings
+xMonkeyPinch/en.lproj/InfoPlist.strings
+lSLF07#2@43"Copy MonkeyPinch/en.lproj/InfoPlist.strings388351400#388351402#0(0"0(0#0#75"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/en.lproj/InfoPlist.strings4502789776#558"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings" --validate --inputencoding utf-8 --outputencoding binary MonkeyPinch/en.lproj/InfoPlist.strings --outdir "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/1.png MonkeyPinch/1.png
+s388351400.854654
+e388351401.161175
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/1.png
+xMonkeyPinch/1.png
+lSLF07#2@22"Copy MonkeyPinch/1.png388351400#388351401#0(0"0(0#0#54"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/1.png4502789776#538"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/1.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/2.png MonkeyPinch/2.png
+s388351401.069050
+e388351401.190723
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/2.png
+xMonkeyPinch/2.png
+lSLF07#2@22"Copy MonkeyPinch/2.png388351401#388351401#0(0"0(0#0#54"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/2.png4502789776#538"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/2.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/3.png MonkeyPinch/3.png
+s388351401.114035
+e388351401.210602
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/3.png
+xMonkeyPinch/3.png
+lSLF07#2@22"Copy MonkeyPinch/3.png388351401#388351401#0(0"0(0#0#54"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/3.png4502789776#538"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/3.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Birthdays.png MonkeyPinch/Birthdays.png
+s388351400.748119
+e388351401.117555
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/Birthdays.png
+xMonkeyPinch/Birthdays.png
+lSLF07#2@30"Copy MonkeyPinch/Birthdays.png388351400#388351401#0(0"0(0#0#62"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/Birthdays.png4502789776#546"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/Birthdays.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Birthdays@2x.png MonkeyPinch/Birthdays@2x.png
+s388351400.749202
+e388351401.117686
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/Birthdays@2x.png
+xMonkeyPinch/Birthdays@2x.png
+lSLF07#2@33"Copy MonkeyPinch/Birthdays@2x.png388351400#388351401#0(0"0(0#0#65"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/Birthdays@2x.png4502789776#549"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/Birthdays@2x.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall.png MonkeyPinch/BlobIconSmall.png
+s388351400.745369
+e388351401.113948
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall.png
+xMonkeyPinch/BlobIconSmall.png
+lSLF07#2@34"Copy MonkeyPinch/BlobIconSmall.png388351400#388351401#0(0"0(0#0#66"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/BlobIconSmall.png4502789776#550"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/BlobIconSmall.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall@2x.png MonkeyPinch/BlobIconSmall@2x.png
+s388351400.746683
+e388351401.190862
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/BlobIconSmall@2x.png
+xMonkeyPinch/BlobIconSmall@2x.png
+lSLF07#2@37"Copy MonkeyPinch/BlobIconSmall@2x.png388351400#388351401#0(0"0(0#0#69"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/BlobIconSmall@2x.png4502789776#553"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/BlobIconSmall@2x.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Default-568h@2x.png Default-568h@2x.png
+s388351401.118882
+e388351401.434813
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/Default-568h@2x.png
+xDefault-568h@2x.png
+lSLF07#2@24"Copy Default-568h@2x.png388351401#388351401#0(0"0(0#0#56"/Users/Utsav/Downloads/MonkeyPinch 2/Default-568h@2x.png4502789776#540"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/Default-568h@2x.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Default.png Default.png
+s388351401.190952
+e388351401.318130
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png388351401#388351401#0(0"0(0#0#48"/Users/Utsav/Downloads/MonkeyPinch 2/Default.png4502789776#532"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/Default.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/Default@2x.png Default@2x.png
+s388351401.161279
+e388351401.439122
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png388351401#388351401#0(0"0(0#0#51"/Users/Utsav/Downloads/MonkeyPinch 2/Default@2x.png4502789776#535"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/Default@2x.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch.png MonkeyPinch.png
+s388351401.115651
+e388351401.253029
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch.png
+xMonkeyPinch.png
+lSLF07#2@20"Copy MonkeyPinch.png388351401#388351401#0(0"0(0#0#52"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch.png4502789776#536"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch1.png MonkeyPinch1.png
+s388351401.117768
+e388351401.190565
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch1.png
+xMonkeyPinch1.png
+lSLF07#2@21"Copy MonkeyPinch1.png388351401#388351401#0(0"0(0#0#53"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch1.png4502789776#537"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch1.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/backgnd1.png MonkeyPinch/backgnd1.png
+s388351401.120678
+e388351401.373222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/backgnd1.png
+xMonkeyPinch/backgnd1.png
+lSLF07#2@29"Copy MonkeyPinch/backgnd1.png388351401#388351401#0(0"0(0#0#61"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/backgnd1.png4502789776#545"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/backgnd1.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/chomp.wav MonkeyPinch/chomp.wav
+s388351400.741654
+e388351401.117043
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/chomp.wav
+xMonkeyPinch/chomp.wav
+lSLF07#2@26"Copy MonkeyPinch/chomp.wav388351400#388351401#0(0"0(0#0#58"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/chomp.wav4502789776#542"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/chomp.wav" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/MainStoryboard.storyboard MonkeyPinch/en.lproj/MainStoryboard.storyboard
+s388351400.740629
+e388351400.854548
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/en.lproj/MainStoryboard.storyboard
+xMonkeyPinch/en.lproj/MainStoryboard.storyboard
+lSLF07#2@51"Copy MonkeyPinch/en.lproj/MainStoryboard.storyboard388351400#388351400#0(0"0(0#0#83"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/en.lproj/MainStoryboard.storyboard4502789776#576"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/en.lproj/MainStoryboard.storyboard" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/hehehe1.wav MonkeyPinch/hehehe1.wav
+s388351400.742390
+e388351401.117364
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/hehehe1.wav
+xMonkeyPinch/hehehe1.wav
+lSLF07#2@28"Copy MonkeyPinch/hehehe1.wav388351400#388351401#0(0"0(0#0#60"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/hehehe1.wav4502789776#544"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/hehehe1.wav" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/monkey_1.png MonkeyPinch/monkey_1.png
+s388351400.743167
+e388351401.068863
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/monkey_1.png
+xMonkeyPinch/monkey_1.png
+lSLF07#2@29"Copy MonkeyPinch/monkey_1.png388351400#388351401#0(0"0(0#0#61"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/monkey_1.png4502789776#545"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/monkey_1.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/object_bananabunch.png MonkeyPinch/object_bananabunch.png
+s388351400.744506
+e388351401.113791
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/object_bananabunch.png
+xMonkeyPinch/object_bananabunch.png
+lSLF07#2@39"Copy MonkeyPinch/object_bananabunch.png388351400#388351401#0(0"0(0#0#71"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/object_bananabunch.png4502789776#555"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/object_bananabunch.png" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CCpResource build/Debug-iphonesimulator/MonkeyPinch.app/wood.jpg MonkeyPinch/wood.jpg
+s388351401.122670
+e388351401.233443
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MonkeyPinch.app/wood.jpg
+xMonkeyPinch/wood.jpg
+lSLF07#2@25"Copy MonkeyPinch/wood.jpg388351401#388351401#0(0"0(0#0#57"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/wood.jpg4502789776#541"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/wood.jpg" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"0#
+
+CGenerateDSYMFile "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app.dSYM" "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch"
+r0
+
+CLd "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/MonkeyPinch" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Info.plist" MonkeyPinch/MonkeyPinch-Info.plist
+s388351398.599306
+e388351398.642876
+r1
+xProcessInfoPlistFile
+x/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Info.plist
+xMonkeyPinch/MonkeyPinch-Info.plist
+lSLF07#2@42"Process MonkeyPinch/MonkeyPinch-Info.plist388351398#388351398#0(0"0(0#0#71"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Info.plist17202681600#541"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MonkeyPinch/MonkeyPinch-Info.plist -genpkginfo "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app/Info.plist"0#
+
+CProcessPCH /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch.pth MonkeyPinch/MonkeyPinch-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388351398.643097
+e388351399.382678
+r1
+xProcessPCH
+x/var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch.pth
+xMonkeyPinch/MonkeyPinch-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Prefix.pch:8:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later." [-W#warnings]
+o #warning "This project uses features only available in iOS SDK 5.0 and later."
+o  ^
+o1 warning generated.
+lSLF07#2@45"Precompile MonkeyPinch/MonkeyPinch-Prefix.pch388351398#388351399#0(284"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Prefix.pch:8:2: warning: #warning "This project uses features only available in iOS SDK 5.0 and later." [-W#warnings] #warning "This project uses features only available in iOS SDK 5.0 and later."  ^1 warning generated.1(22@78"#warning "This project uses features only available in iOS SDK 5.0 and later."388351398#0#179#0(6@71"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Prefix.pch344296303#8#2#0#0#10"#warning *0(0#0#71"/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Prefix.pch4502789776#2019"    cd "/Users/Utsav/Downloads/MonkeyPinch 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/hard disk /Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot "/Volumes/hard disk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk" -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-generated-files.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-own-target-headers.hmap" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-all-target-headers.hmap" -iquote "/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/MonkeyPinch-project-headers.hmap" "-F/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/include" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources/i386" "-I/Users/Utsav/Downloads/MonkeyPinch 2/build/MonkeyPinch.build/Debug-iphonesimulator/MonkeyPinch.build/DerivedSources" -c "/Users/Utsav/Downloads/MonkeyPinch 2/MonkeyPinch/MonkeyPinch-Prefix.pch" -o /var/folders/s_/jjn7b1fj62q6lz61h9gfdjmh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MonkeyPinch-Prefix-chdfuvvalpbxnlbbhmneqtglstuh/MonkeyPinch-Prefix.pch.pth0#
+
+CTouch "/Users/Utsav/Downloads/MonkeyPinch 2/build/Debug-iphonesimulator/MonkeyPinch.app"
+r0
+

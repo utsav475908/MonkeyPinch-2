@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="3084" systemVersion="11G63" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="CEj-lx-dYr">
+    <dependencies>
+        <deployment version="1280" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="2083"/>
+    </dependencies>
+    <scenes>
+        <!--Mac View1 Controller - Item-->
+        <scene sceneID="Pgj-RB-cpX">
+            <objects>
+                <viewController id="1eY-rj-0gL" customClass="MacView1Controller" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="RQc-Vy-fxY">
+                        <rect key="frame" x="0.0" y="20" width="320" height="411"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <pickerView contentMode="scaleToFill" id="6ea-x6-4cp">
+                                <rect key="frame" x="0.0" y="195" width="320" height="216"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="1eY-rj-0gL" id="HzG-B5-5Uf"/>
+                                    <outlet property="delegate" destination="1eY-rj-0gL" id="YhF-s4-AIY"/>
+                                </connections>
+                            </pickerView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="wood.jpg" id="fNo-E5-9Ag">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="194"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="Scroll down" textAlignment="center" id="HiU-04-Uvn">
+                                <rect key="frame" x="34" y="9" width="257" height="173"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                <fontDescription key="fontDescription" name="HiraMinProN-W3" family="Hiragino Mincho ProN" pointSize="17"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" image="1.png" id="mXe-jW-NqZ"/>
+                    <connections>
+                        <outlet property="textView" destination="HiU-04-Uvn" id="wo4-hM-di9"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3vz-ez-fDi" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="490" y="468"/>
+        </scene>
+        <!--View Controller - Fun-->
+        <scene sceneID="5">
+            <objects>
+                <viewController id="2" customClass="ViewController" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3">
+                        <rect key="frame" x="0.0" y="20" width="320" height="411"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="wood.jpg" id="GsQ-5r-hrI">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="411"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" image="monkey_1.png" id="ZLK-ox-1fx">
+                                <rect key="frame" x="45" y="88" width="140" height="119"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="Kuc-bx-Q0I" appends="YES" id="KCO-03-wKK"/>
+                                    <outletCollection property="gestureRecognizers" destination="2LG-SY-wmh" appends="YES" id="xsb-mG-xe4"/>
+                                    <outletCollection property="gestureRecognizers" destination="zn4-so-1SM" appends="YES" id="9oW-19-15u"/>
+                                </connections>
+                            </imageView>
+                            <imageView contentMode="scaleToFill" image="object_bananabunch.png" id="DZ1-iG-vm6">
+                                <rect key="frame" x="113" y="274" width="175" height="130"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="1Ku-bL-zPf" appends="YES" id="NpY-5O-w0J"/>
+                                    <outletCollection property="gestureRecognizers" destination="wSN-bx-smz" appends="YES" id="9RW-d9-L9e"/>
+                                    <outletCollection property="gestureRecognizers" destination="Z4M-Vh-8IH" appends="YES" id="JrI-HH-II8"/>
+                                </connections>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="I am Mac" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="zFs-2N-DMR">
+                                <rect key="frame" x="31" y="20" width="109" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Pan me!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Lj2-Fn-DJY">
+                                <rect key="frame" x="8" y="67" width="109" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Kailasa" family="Kailasa" pointSize="17"/>
+                                <color key="textColor" red="0.50196081400000003" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Je suis Mac" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="1W1-RA-1wS">
+                                <rect key="frame" x="185" y="186" width="111" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="I am Pc" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kRS-2R-2a1">
+                                <rect key="frame" x="26" y="324" width="109" height="46"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="20"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Je ne suis pas PC" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="4Td-QM-2yY">
+                                <rect key="frame" x="143" y="34" width="170" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Hi➣" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="shL-h2-d95">
+                                <rect key="frame" x="199" y="342" width="58" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="La😜" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Ila-tC-3V3">
+                                <rect key="frame" x="218" y="146" width="57" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="⏏   ⌘  ⌥  ⌫" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="K0p-mC-v3i">
+                                <rect key="frame" x="20" y="378" width="147" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Rotate me!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="ZOU-HR-GAe">
+                                <rect key="frame" x="166" y="220" width="109" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Kailasa" family="Kailasa" pointSize="17"/>
+                                <color key="textColor" red="0.50196081400000003" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Pinch me!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="AiH-6y-oQR">
+                                <rect key="frame" x="159" y="257" width="109" height="46"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="Kailasa" family="Kailasa" pointSize="17"/>
+                                <color key="textColor" red="0.50196081400000003" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="I am Unix" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kuc-yj-aGH">
+                                <rect key="frame" x="20" y="264" width="109" height="46"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Fun" image="Birthdays.png" id="MZq-sy-ZNj"/>
+                    <connections>
+                        <outlet property="bananaPan" destination="1Ku-bL-zPf" id="HGY-DT-Thr"/>
+                        <outlet property="monkeyPan" destination="Kuc-bx-Q0I" id="iVe-8k-1wC"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4" sceneMemberID="firstResponder"/>
+                <panGestureRecognizer minimumNumberOfTouches="1" id="Kuc-bx-Q0I">
+                    <connections>
+                        <action selector="handlePan:" destination="2" id="bZe-bN-p2R"/>
+                        <outlet property="delegate" destination="2" id="hyC-b7-8cj"/>
+                    </connections>
+                </panGestureRecognizer>
+                <panGestureRecognizer minimumNumberOfTouches="1" id="1Ku-bL-zPf">
+                    <connections>
+                        <action selector="handlePan:" destination="2" id="zyz-a3-V9g"/>
+                        <outlet property="delegate" destination="2" id="UyF-wf-2Gf"/>
+                    </connections>
+                </panGestureRecognizer>
+                <pinchGestureRecognizer id="2LG-SY-wmh">
+                    <connections>
+                        <action selector="handlePinch:" destination="2" id="eLY-yD-fa2"/>
+                        <outlet property="delegate" destination="2" id="C8j-jc-yPW"/>
+                    </connections>
+                </pinchGestureRecognizer>
+                <rotationGestureRecognizer id="zn4-so-1SM">
+                    <connections>
+                        <action selector="handleRotate:" destination="2" id="2Fm-LH-bfY"/>
+                        <outlet property="delegate" destination="2" id="Y5b-I8-ixJ"/>
+                    </connections>
+                </rotationGestureRecognizer>
+                <pinchGestureRecognizer id="wSN-bx-smz">
+                    <connections>
+                        <action selector="handlePinch:" destination="2" id="Wgh-57-SLG"/>
+                        <outlet property="delegate" destination="2" id="Hfi-Dv-pSK"/>
+                    </connections>
+                </pinchGestureRecognizer>
+                <rotationGestureRecognizer id="Z4M-Vh-8IH">
+                    <connections>
+                        <action selector="handleRotate:" destination="2" id="xBn-DZ-FJT"/>
+                        <outlet property="delegate" destination="2" id="abD-Xj-yFO"/>
+                    </connections>
+                </rotationGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="719" y="-485"/>
+        </scene>
+        <!--Tab Bar Controller-->
+        <scene sceneID="JH6-5r-Gi5">
+            <objects>
+                <tabBarController id="CEj-lx-dYr" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" id="UEm-6Y-Fbz">
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="2" kind="relationship" relationship="viewControllers" id="3jc-8E-cqT"/>
+                        <segue destination="1eY-rj-0gL" kind="relationship" relationship="viewControllers" id="gJr-im-AdW"/>
+                        <segue destination="flT-JB-oz0" kind="relationship" relationship="viewControllers" id="O3G-wi-dhd"/>
+                        <segue destination="nbP-Fg-808" kind="relationship" relationship="viewControllers" id="rNC-rx-g53"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tSI-EZ-YQh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1168" y="-381"/>
+        </scene>
+        <!--Unix View1 Controller - Item-->
+        <scene sceneID="w6a-4L-rz2">
+            <objects>
+                <viewController id="flT-JB-oz0" customClass="UnixView1Controller" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="asH-I6-3VO">
+                        <rect key="frame" x="0.0" y="20" width="320" height="411"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <pickerView contentMode="scaleToFill" id="Rdt-4v-KwI">
+                                <rect key="frame" x="0.0" y="195" width="320" height="216"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="flT-JB-oz0" id="ZDv-Zj-sIC"/>
+                                    <outlet property="delegate" destination="flT-JB-oz0" id="6Jk-3x-r8F"/>
+                                </connections>
+                            </pickerView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="wood.jpg" id="5az-mp-eah">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="194"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="Scroll down" textAlignment="center" id="8eO-cV-B6S">
+                                <rect key="frame" x="34" y="9" width="257" height="173"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                <fontDescription key="fontDescription" name="HiraMinProN-W3" family="Hiragino Mincho ProN" pointSize="17"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" image="2.png" id="L80-v2-HbW"/>
+                    <connections>
+                        <outlet property="textView" destination="8eO-cV-B6S" id="baK-QC-sSo"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nVN-6l-Jgw" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-526" y="456"/>
+        </scene>
+        <!--Organised View1 Controller - Item-->
+        <scene sceneID="dIe-9P-mI0">
+            <objects>
+                <viewController id="nbP-Fg-808" customClass="OrganisedView1Controller" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ggZ-m1-PYh">
+                        <rect key="frame" x="0.0" y="20" width="320" height="411"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <pickerView contentMode="scaleToFill" id="paM-kJ-G8C">
+                                <rect key="frame" x="0.0" y="195" width="320" height="216"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="nbP-Fg-808" id="shH-VS-Bis"/>
+                                    <outlet property="delegate" destination="nbP-Fg-808" id="HW8-v1-GFD"/>
+                                </connections>
+                            </pickerView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="wood.jpg" id="6Ar-B4-S7v">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="194"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="Scroll down" textAlignment="center" id="BWu-IM-HO1">
+                                <rect key="frame" x="32" y="10" width="257" height="173"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                <fontDescription key="fontDescription" name="HiraMinProN-W3" family="Hiragino Mincho ProN" pointSize="17"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" image="3.png" id="CXQ-Rj-xoh"/>
+                    <connections>
+                        <outlet property="textView" destination="BWu-IM-HO1" id="jW1-9Q-dVZ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="38w-pD-8Cz" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="273" y="-104"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="1.png" width="32" height="32"/>
+        <image name="2.png" width="32" height="32"/>
+        <image name="3.png" width="32" height="32"/>
+        <image name="Birthdays.png" width="36" height="36"/>
+        <image name="monkey_1.png" width="140" height="168"/>
+        <image name="object_bananabunch.png" width="175" height="130"/>
+        <image name="wood.jpg" width="284" height="177"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>
